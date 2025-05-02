@@ -3,6 +3,12 @@
             
 I developed Shopping Mart, a simple yet functional e-commerce web application using Java (JSP & Servlet) for backend development and MySQL Workbench for database management. This project was built as part of my learning journey in full-stack Java web development.
 
+🛠️ Tech Stack
+•	Frontend: HTML5, CSS3 (basic styling)
+•	Backend: Java (JSP, Servlet)
+•	Database: MySQL (via MySQL Workbench)
+•	Server: Apache Tomcat
+
 ![image](https://github.com/user-attachments/assets/4475ba84-eb5f-41b2-ba31-b43d23174bd7)
 
 ![image](https://github.com/user-attachments/assets/6de5fb78-2bdc-4f4d-80e0-3d39677cccde)
