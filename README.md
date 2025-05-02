@@ -1,5 +1,6 @@
-  # YazLuxe-Shopping-Mart
-e-commerce website using backend 
+              # YazLuxe-Shopping-Mart
+            e-commerce website using backend 
+            
 I developed Shopping Mart, a simple yet functional e-commerce web application using Java (JSP & Servlet) for backend development and MySQL Workbench for database management. This project was built as part of my learning journey in full-stack Java web development.
 
 ![image](https://github.com/user-attachments/assets/4475ba84-eb5f-41b2-ba31-b43d23174bd7)
