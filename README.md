@@ -13,11 +13,6 @@ I developed Shopping Mart, a simple yet functional e-commerce web application us
 
 •	Server: Apache Tomcat
 
-![image](https://github.com/user-attachments/assets/4475ba84-eb5f-41b2-ba31-b43d23174bd7)
-
-![image](https://github.com/user-attachments/assets/6de5fb78-2bdc-4f4d-80e0-3d39677cccde)
-
-
 🌟 Key Features
 
 
